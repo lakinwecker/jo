@@ -55,6 +55,6 @@ Important files in the directory tree are:
 
 - `docs/*.mdown`
 
-  These are supplimental doc files which are used by joDoc to build out the
+  These are supplemental doc files which are used by joDoc to build out the
   developer guide portions of the documentation.
 
